@@ -15,13 +15,3 @@ L04
 6.	REFERENCES -(NAME)
 [type]
 
-Marcus Wilbanks
-We used the Titanic dataset to examine passenger records and figure out who managed to
-survive a disaster.
-I ran my own plots to see how the port and passenger fares correlated with survival.
-Creating a boxplot for fares showed that survivors generally paid significantly higher ticket
-prices, aligning neatly with the class disparities we found previously.
-The gender distribution was checked and confirmed a spike in female survivorship . The
-age histograms showed a concentration of children among the survivors.
-This taught me about EDA and that data is very important to ML. There is not a part I like
-more than the other, I simply just like learning about new things.
